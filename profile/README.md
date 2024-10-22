@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome to Heloki Hosting GitHub 👋
+Here at Heloki, we provide fast setup, amazing performance and Free DDOS-Protection hosting for Game Servers, Discord Bots, Websites and more.
 
 <!--
 
